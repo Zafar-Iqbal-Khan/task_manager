@@ -43,7 +43,9 @@ task_manager/
 │   ├── providers/
 │   │   └── task_provider.dart # State management for tasks
 │   ├── screens/
-│   │   ├── add_edit_task_screen.dart # Screen for adding/editing tasks
+│   │   ├── splash_screen #Splash screen
+│   │   ├── task_list_screen.dart #Screen for listing tasks
+│   │   └── add_edit_task_screen.dart # Screen for adding/editing tasks
 │   ├── widgets/
 │   │   └── task_item.dart     # Widget for displaying individual tasks
 │   └── main.dart              # Entry point of the application
