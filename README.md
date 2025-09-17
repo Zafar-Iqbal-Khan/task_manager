@@ -50,8 +50,7 @@ task_manager/
 │   │   └── task_item.dart     # Widget for displaying individual tasks
 │   └── main.dart              # Entry point of the application
 ├── pubspec.yaml               # Project dependencies
-├── README.md                  # Project documentation
-└── test/                      # Unit and widget tests
+└── README.md                  # Project documentation
 ```
 
 ## Dependencies
