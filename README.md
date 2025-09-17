@@ -58,6 +58,12 @@ task_manager/
 - **[SharedPreferences](https://pub.dev/packages/shared_preferences)**: Persistent storage.
 - **[Intl](https://pub.dev/packages/intl)**: Date formatting.
 
+
+## 📥 Download APK
+
+You can download the latest release APK here [![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/Zafar-Iqbal-Khan/post_app_flutter/apk/app-release.apk)
+
+
 ## How to Use
 
 1. **Add a Task**:
