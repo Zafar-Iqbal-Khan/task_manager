@@ -61,7 +61,7 @@ task_manager/
 
 ## 📥 Download APK
 
-You can download the latest release APK here [![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/Zafar-Iqbal-Khan/task_manager/apk/app-release.apk)
+You can download the latest release APK here [![Download APK](https://img.shields.io/badge/Download-APK-blue.svg?style=for-the-badge)](https://github.com/Zafar-Iqbal-Khan/task_manager/raw/main/release_apk/app-release.apk)
 
 
 ## How to Use
