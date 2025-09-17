@@ -1,0 +1,4 @@
+#Wed Sep 17 12:13:03 IST 2025
+base.0=/Users/zafariqbal/Documents/test_projects/task_manager/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
